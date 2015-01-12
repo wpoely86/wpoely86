@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2015-01-12 21:25:32
+categories: general
+---
+Welcome to my site! There is still not much here. Please bear with me as I figure out how Jekyll works.
+
+The idea is to post anything I find relevant to share with the world (wich will probably be not much).

@@ -1,0 +1,12 @@
+# Site settings
+title: My home
+#email: wpoely86.thisisbullshit@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    Some random things which I want to share with the world.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://wpoely86.github.io"
+github_username:  wpoely86
+encoding: UTF-8
+
+# Build settings
+markdown: kramdown
